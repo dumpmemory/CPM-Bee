@@ -17,7 +17,7 @@
 
 ## ✨ 模型介绍
 
-**CPM-Bee**是一个完全开源、允许商用的百亿参数中英文基座模型，也是[**CPM-Live**](https://live.openbmb.org/)训练的第二个里程碑。它采用Transformer自回归架构（auto-regressive），在超万亿（trillion）高质量语料上进行预训练，拥有强大的基础能力。开发者和研究者可以在CPM-Bee基座模型的基础上在各类场景进行适配来以创建特定领域的应用模型。
+**CPM-Bee**是一个完全开源、允许商用的百亿参数中英文基座模型，也是[**CPM-Live**](https://github.com/OpenBMB/CPM-Live)训练的第二个里程碑。它采用Transformer自回归架构（auto-regressive），在超万亿（trillion）高质量语料上进行预训练，拥有强大的基础能力。开发者和研究者可以在CPM-Bee基座模型的基础上在各类场景进行适配来以创建特定领域的应用模型。
 
 - **👐 开源可商用**：OpenBMB始终秉承“让大模型飞入千家万户”的开源精神，CPM-Bee基座模型将完全开源并且可商用，以推动大模型领域的发展。我们鼓励全球范围内的科研机构、企业和个人开发者在遵守[开源许可协议](#模型协议)的前提下，自由地在CPM-Bee基座模型上进行创新。
 
@@ -49,7 +49,7 @@
 - **[2023/06/30]**  基于CPM-Bee的多模态系列模型[VisCPM](https://github.com/OpenBMB/VisCPM)发布，支持多模态对话和文生图！
 - **[2023/06/16]**  CPM-Bee现已支持🤗[Transformers](https://huggingface.co/openbmb/cpm-bee-10b)。
 - **[2023/06/08]**  更新了使用CPM-Bee进行基础任务微调的[教程](https://github.com/OpenBMB/CPM-Bee/tree/main/tutorials/basic_task_finetune)。
-- **[2023/05/27]**  百亿参数，允许商用的中英双语基座模型CPM-Bee开源了，它是[**CPM-Live**](https://live.openbmb.org/)的第二个里程碑。
+- **[2023/05/27]**  百亿参数，允许商用的中英双语基座模型CPM-Bee开源了，它是[**CPM-Live**](https://github.com/OpenBMB/CPM-Live)的第二个里程碑。
 
 ## 🍯 CPM-Bee系列模型
 
